@@ -22,7 +22,7 @@ Me apasiona el desarrollo de software y la resolución de problemas técnicos. A
 Desarrollo de escritorio en **C#** y **SQL Server** con arquitectura en capas. Gestiona cargas de combustible, clientes y pagos.
 
 ### [Sistema Web de Agencia de Viajes](https://github.com/wilfedinho/ProyectoDAW2025)
-Aplicación web en **ASP.NET** con seguridad SHA-256, auditoría y soporte multilenguaje.
+Proyecto grupal de Aplicación web en **ASP.NET** con seguridad SHA-256, auditoría y soporte multilenguaje.
 
 ---
 
