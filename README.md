@@ -27,5 +27,5 @@ Aplicación web en **ASP.NET** con seguridad SHA-256, auditoría y soporte multi
 ---
 
 ## 📧 Contacto
-- **LinkedIn:** [https://www.linkedin.com/in/agustinhernangatica/]
+- **LinkedIn:** https://www.linkedin.com/in/agustinhernangatica/
 - **Correo:** agustingatica710@gmail.com
