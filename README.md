@@ -12,7 +12,7 @@ Me apasiona el desarrollo de software y la resolución de problemas técnicos. A
 
 ## 🛠️ Tecnologías y Herramientas
 - **Lenguajes:** C#, SQL, Python.
-- **Frameworks:** .NET Core / Framework, ASP.NET (MVC & WebForms).
+- **Frameworks:** .NET Core / Framework, ASP.NET.
 - **Bases de Datos:** SQL Server (Modelado, Consultas, ADO.NET).
 - **Herramientas:** Git, Inno Setup, Draw.io, Enterprise Architect.
 - **Metodologías:** Agile (Scrum/Kanban).
