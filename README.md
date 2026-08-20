@@ -1,7 +1,7 @@
 # Hola, soy Agustín Gatica 👋
 
 ### Estudiante de Ingeniería en Sistemas Informáticos (UAI)
-Me apasiona el desarrollo de software y la resolución de problemas técnicos. Actualmente me encuentro en la etapa final de mi carrera, habiendo aprobado 38 de las 51 materias del plan de estudios.
+Me apasiona el desarrollo de software y la resolución de problemas técnicos. Actualmente me encuentro en la etapa final de mi carrera, habiendo aprobado 42 de las 51 materias del plan de estudios.
 
 ---
 
